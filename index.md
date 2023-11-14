@@ -1,11 +1,10 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Daily Caffeinated Blog
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+Welcome! if you found this blog on your own congratulations shout-outs for the people who motivated me to launch this page Freya Fox, Kare N, Christan E, Piairre B, Nick B, Chanel B, Sei W, and you Thank you! Timothy C Allen jr.
 
 ## About, Further
 This second section demonstrates spacing. CSS is kept to a minimum with minor styling
