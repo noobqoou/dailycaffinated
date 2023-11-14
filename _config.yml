@@ -45,4 +45,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-seo-tag
-
+theme: jekyll-theme-LightSpeed
